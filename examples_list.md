@@ -1,0 +1,1 @@
+- examples/Si2.aiida: [relax: atoms+cell, moderate protocol] → bands, pdos 
