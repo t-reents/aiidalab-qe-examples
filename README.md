@@ -6,7 +6,7 @@ To add a new example, please put the corresping export file in the `examples` fo
 
 ### How to add a plugin dependency
 
-If the example requires a given set of Quantum ESPRESSO app plugins to be loaded, you can specific them in the corresponding line of the `examples_list.txt`, just adding: `/ plugins: <plugin1>, <plugin2>` and so on. 
+If the example requires a given set of Quantum ESPRESSO app plugins to be loaded, you can specific them in the corresponding line of the `examples_list.txt`, just adding: `/ plugins: <plugin1>, <plugin2>` and so on. You can check the already provided examples.
 
 ## Versioning
 This repo will be tagged to mark its compatability with versions of the Quantum ESPRESSO app.
