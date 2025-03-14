@@ -7,11 +7,11 @@ LiCoO2.aiida - LiCoO2 [unrelaxed, moderate protocol] → bands, pdos
 Iron_1.aiida - FM BCC Fe2 [relax: atoms+cell, moderate protocol, magnetic] → bands, pdos
 Benzene.aiida - C6H6 [relax: atoms only, moderate protocol] → pdos
 BN.aiida - 2d-hBN [unrelaxed, moderate protocol] → bands, pdos 
-Si_vibro_full.aiida - Silicon phonons in-app guide: Full
-Si_vibro_phonons_ins.aiida - Silicon phonons in-app guide: phonons+INS
-Si_vibro_raman_ir_dielectric.aiida - Silicon phonons in-app guide: Raman+IR+dielectric
-GaAs_full_vibro.aiida - GaAs phonons in-app guide: Full
-SiO2_full_vibro.aiida - Example: SiO2, full vibronic properties
-LiF_muons_sites.aiida - LiF muons in-app guide: sites
-LiF_muons_sites_polarization.aiida - LiF muons in-app guide: sites+polarization
-LiF_full_muons.aiida - Example: LiF muons, stopping sites and polarization function
+Si_vibro_full.aiida - Silicon phonons in-app guide: Full - plugins: aiidalab_qe_vibroscopy
+Si_vibro_phonons_ins.aiida - Silicon phonons in-app guide: phonons+INS - plugins: aiidalab_qe_vibroscopy
+Si_vibro_raman_ir_dielectric.aiida - Silicon phonons in-app guide: Raman+IR+dielectric - plugins: aiidalab_qe_vibroscopy
+GaAs_full_vibro.aiida - GaAs phonons in-app guide: Full - plugins: aiidalab_qe_vibroscopy
+SiO2_full_vibro.aiida - Example: SiO2, full vibronic properties - plugins: aiidalab_qe_vibroscopy
+LiF_muons_sites.aiida - LiF muons in-app guide: sites - plugins: aiidalab_qe_muon
+LiF_muons_sites_polarization.aiida - LiF muons in-app guide: sites+polarization - plugins: aiidalab_qe_muon
+LiF_full_muons.aiida - Example: LiF muons, stopping sites and polarization function - plugins: aiidalab_qe_muon
