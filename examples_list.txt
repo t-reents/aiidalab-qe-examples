@@ -7,6 +7,10 @@ LiCoO2.aiida - LiCoO2 [unrelaxed, moderate protocol] → bands, pdos
 Iron_1.aiida - FM BCC Fe2 [relax: atoms+cell, moderate protocol, magnetic] → bands, pdos
 Benzene.aiida - C6H6 [relax: atoms only, moderate protocol] → pdos
 BN.aiida - 2d-hBN [unrelaxed, moderate protocol] → bands, pdos 
+CoO_FM_without_U.aiida - CoO FM PDOS without U (Ferromagnetism & DFT+U in-app guide)
+CoO_FM_with_U.aiida - CoO FM PDOS with U (Ferromagnetism & DFT+U in-app guide)
+CoO_AFM_without_U.aiida - CoO AFM PDOS without U (Antiferromagnetism in-app guide)
+CoO_AFM_with_U.aiida - CoO AFM PDOS with U (Antiferromagnetism in-app guide)
 Si_vibro_full.aiida - Silicon phonons in-app guide: Full / plugins: aiidalab_qe_vibroscopy
 Si_vibro_phonons_ins.aiida - Silicon phonons in-app guide: phonons+INS / plugins: aiidalab_qe_vibroscopy
 Si_vibro_raman_ir_dielectric.aiida - Silicon phonons in-app guide: Raman+IR+dielectric / plugins: aiidalab_qe_vibroscopy
